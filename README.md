@@ -1,8 +1,8 @@
 # Hello, my Name's Kane 👋
 
-### 2nd Year Computer Science Major at UC San Diego. Current interests include full stack web development, computer vision, and language modeling.
+## 2nd Year Computer Science Major at UC San Diego. Current interests include full stack web development, computer vision, and language modeling.
 
-## Current Projects
+### Current Projects
 - [Engineers for Exploration](https://github.com/UCSD-E4E/MMICT-web_server/tree/ce80acf02d231521f9d3ea2a5a96719e13f244ae)
 - [Triton Robotics](https://github.com/Triton-Robotics/TRCV_2023)
 
