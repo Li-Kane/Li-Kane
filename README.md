@@ -18,7 +18,7 @@
 ## Interests and Hobbies
 - Taiko: Specifically Kumi-daiko, a community-centered form of Japanese performance drumming
 - Running: Completed a half-marathon in September 2023, working towards a full marathon
-- Writing and Journaaling: Jounaled daily for over two years
+- Writing and Journaling: Jounaled daily for over two years
 
 <!--
 **Li-Kane/Li-Kane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
