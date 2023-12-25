@@ -36,6 +36,8 @@ I'm a 2nd Year Computer Science Major at UC San Diego passionate about learning 
 - Writing and Journaling: Jounaled daily for over two years
 - Factorio: Building the ultimate megabase
 
+Thanks for stopping by :)
+
 <!--
 **Li-Kane/Li-Kane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
