@@ -22,7 +22,7 @@ I'm a 2nd Year Computer Science Major at UC San Diego interested in learning and
 - [Triton Robotics:](https://github.com/Triton-Robotics/TR-CV-2024.git) Establishing communication between the Computer Vision team and Embedded team (Jetson to STM32) using UART communication. Also developed a Kalman filtering test program for future implementation.
 
 ## Favorite Projects
-- [CMNIST Website:](https://cmnist-website.vercel.app/) Created a website hosting a neural network which allows users to draw Chinese characters and a custom trained model will predict which class it is. It was a very fun project on my own to explore how neural networks can be trained and integrated into real-life web applications.
+- [CMNIST Website:](https://cmnist-website.vercel.app/) Created a website hosting a neural network which allows users to draw Chinese characters and a custom trained model will predict which class it is. It was a fun project on my own to explore how neural networks can be trained and integrated into real-life web applications.
 - [Asayake Taiko Website:](https://asayaketaiko.ucsd.edu/) An imagined tkae of how I would build a website for Asayake Taiko, a Japanese ensemble drumming club. This was mainly intended for frontend practice, and I also deployed the official website using an Alumni's design to the UC San Diego remote server.
 
 ## Contact
@@ -34,7 +34,6 @@ I'm a 2nd Year Computer Science Major at UC San Diego interested in learning and
 - Taiko: Specifically Kumi-daiko, a community-centered form of Japanese performance drumming
 - Running: Completed a half-marathon in September 2023, working towards a full marathon
 - Writing and Journaling: Jounaled daily for over two years
-- Factorio: Building the ultimate megabase
 
 Thanks for stopping by :)
 
