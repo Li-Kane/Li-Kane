@@ -18,12 +18,12 @@ I'm a 2nd Year Computer Science Major at UC San Diego interested in learning and
 
 
 ## Current Projects
-- [Engineers for Exploration](https://github.com/UCSD-E4E/MMICT)
-- [Triton Robotics](https://github.com/Triton-Robotics/TRCV_2023)
+- [Engineers for Exploration:](https://github.com/UCSD-E4E/MMICT) Developing a web application to assist environmental research by classifying mangrove regions in uploaded drone imagery. My role has revolved around setting up user-authentication through Auth0, setting up API endpoints to access and update our MongoDB database and AWS account, and occasional frontend styling. 
+- [Triton Robotics:](https://github.com/Triton-Robotics/TR-CV-2024.git) Establishing communication between the Computer Vision team and Embedded team (Jetson to STM32) using UART communication. Also developed a Kalman filtering test program for future implementation.
 
 ## Favorite Projects
-- [CMNIST Website](https://cmnist-website.vercel.app/)
-- [Asayake Taiko Website](https://asayaketaiko.ucsd.edu/)
+- [CMNIST Website:](https://cmnist-website.vercel.app/) Created a website hosting a neural network which allows users to draw Chinese characters and a custom trained model will predict which class it is. It was a very fun project on my own to explore how neural networks can be trained and integrated into real-life web applications.
+- [Asayake Taiko Website:](https://asayaketaiko.ucsd.edu/) An imagined tkae of how I would build a website for Asayake Taiko, a Japanese ensemble drumming club. This was mainly intended for frontend practice, and I also deployed the official website using an Alumni's design to the UC San Diego remote server.
 
 ## Contact
 - kal036@ucsd.edu
