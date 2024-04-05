@@ -22,6 +22,7 @@ I'm a 2nd Year Computer Science Major at UC San Diego interested in learning and
 - [Triton Robotics:](https://github.com/Triton-Robotics/TR-CV-2024.git) Establishing communication between the Computer Vision team and Embedded team (Jetson to STM32) using UART communication. Also developed a Kalman filtering test program for future implementation.
 
 ## Favorite Projects
+- [Dougu Mobile App:](https://github.com/Li-Kane/Dougu) Pushed a mobile app to internal testing on both Google Play Console and Apple Testflight as part of a process of devloping an equipment management app that seeks to make transferring and keeping track of equipment as simple as possible. With designs from [Neela Kolte.](https://www.behance.net/neelakolte). Built using React Native and AWS Amplify for the backend, the app is currently under testing and planning with an intended release date in the summer.
 - [CMNIST Website:](https://cmnist-website.vercel.app/) Created a website hosting a neural network which allows users to draw Chinese characters and a custom trained model will predict which class it is. It was a fun project on my own to explore how neural networks can be trained and integrated into real-life web applications.
 - [Asayake Taiko Website:](https://asayaketaiko.ucsd.edu/) An imagined tkae of how I would build a website for Asayake Taiko, a Japanese ensemble drumming club. This was mainly intended for frontend practice, and I also deployed the official website using an Alumni's design to the UC San Diego remote server.
 
