@@ -27,7 +27,7 @@ I'm a 2nd Year Computer Science Major at UC San Diego interested in learning and
 ## Contact
 - kal036@ucsd.edu
 - (714)-220-7137
-- [linkedIn](linkedin.com/in/kane-li-b5153125b)
+- [LinkedIn](linkedin.com/in/kane-li-b5153125b)
 
 ## Interests and Hobbies
 - Taiko: Specifically Kumi-daiko, a community-centered form of Japanese performance drumming
@@ -37,16 +37,6 @@ I'm a 2nd Year Computer Science Major at UC San Diego interested in learning and
 Thanks for stopping by :)
 
 <!--
-**Li-Kane/Li-Kane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+For future icons
+https://devicon.dev/
 -->
