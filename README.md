@@ -1,6 +1,6 @@
 # Hello, my Name's Kane 👋
 
-I'm a 2nd Year Computer Science Major at UC San Diego interested in learning and developing the skills to design elegant solutions to real-world problems. Current interests include software engineering and robotics.
+I'm a 3rd Year Computer Science Major at UC San Diego interested in learning and developing the skills to design elegant solutions to real-world problems. Current interests include software engineering and robotics.
 
 ## Technologies I use:
 <code><img width="60" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
