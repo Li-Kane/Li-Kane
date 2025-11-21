@@ -1,6 +1,6 @@
 # Hello, my Name's Kane 👋
 
-I'm a 4th Year Computer Science Major at UC San Diego interested in learning and developing the skills to design elegant solutions to real-world problems. If you'd like to know more, check out my website! [kaneliportfolio.com](https://kaneliportfolio.com)
+I'm a 4th Year Computer Science Major and Math Minor at UC San Diego interested in learning and developing the skills to design elegant solutions to real-world problems. If you'd like to know more, check out my website! [kaneliportfolio.com](https://kaneliportfolio.com)
 
 ## Contact
 - kal036@ucsd.edu
