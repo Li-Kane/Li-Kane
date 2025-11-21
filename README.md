@@ -1,4 +1,4 @@
-# Hello, my Name's Kane 👋
+# Hello, my name's Kane 👋
 
 I'm a 4th Year Computer Science Major and Math Minor at UC San Diego interested in learning and developing the skills to design elegant solutions to real-world problems. If you'd like to know more, check out my website! [kaneliportfolio.com](https://kaneliportfolio.com)
 
